@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TestingApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_form">FormActivity</string>
+    <string name="etq_title">Titulo</string>
+    <string name="edt_title">El titulo va aqui</string>
+    <string name="etq_description">Descripcion</string>
+    <string name="edt_description">Interesante, cuentame mas</string>
+    <string name="btn_save">Guardar</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="btn_task_done">Tarea completa!</string>
+    
+    <string name="success_message">Tarea guardada!</string>
+    <string name="fail_message">No pude guardar la tarea, por favor no me pegues =(</string>
+    
+    <string name="new_task">Nueva Tarea</string>
+</resources>
